@@ -1,0 +1,5 @@
+com\averyxu\servcie\impl\ProductServiceImpl.class
+com\averyxu\controller\ProductController.class
+com\averyxu\servcie\ProductService.class
+com\averyxu\pojo\Product.class
+com\averyxu\ServiceProviderApplication.class
